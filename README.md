@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Complaint Management System
 
 Civic tech web app for reporting and tracking local infrastructure complaints.
@@ -96,3 +97,6 @@ complaint-system/
 ├── DEPLOY.md
 └── .env
 ```
+=======
+# Smart-Complaint-Management-System-
+>>>>>>> 36f3ce96c06bc0c691add45dc296a6076de2d6ef
